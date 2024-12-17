@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BTapKy7\\CNPM\\BTL_TEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A59B0B5-E5D4-4FBB-A488-21DAA6013BB2}|BTL_TEST\\GUI.csproj|D:\\BTapKy7\\CNPM\\BTL_TEST\\btl_test\\danhsachgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A59B0B5-E5D4-4FBB-A488-21DAA6013BB2}|BTL_TEST\\GUI.csproj|solutionrelative:btl_test\\danhsachgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBC48D8-AD85-4C3B-A5BF-1138F0C3E69D}|BLL\\BLL.csproj|D:\\BTapKy7\\CNPM\\BTL_TEST\\bll\\giangvienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBC48D8-AD85-4C3B-A5BF-1138F0C3E69D}|BLL\\BLL.csproj|solutionrelative:bll\\giangvienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897F7FA6-C25A-439F-9EB4-8305479E6ABF}|DTO\\DTO.csproj|D:\\BTapKy7\\CNPM\\BTL_TEST\\dto\\giangviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897F7FA6-C25A-439F-9EB4-8305479E6ABF}|DTO\\DTO.csproj|solutionrelative:dto\\giangviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A59B0B5-E5D4-4FBB-A488-21DAA6013BB2}|BTL_TEST\\GUI.csproj|d:\\btapky7\\cnpm\\btl_test\\btl_test\\danhsachgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A59B0B5-E5D4-4FBB-A488-21DAA6013BB2}|BTL_TEST\\GUI.csproj|solutionrelative:btl_test\\danhsachgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33513704-8703-41BB-B132-DCEB35A5AE0F}|DAL\\DAL.csproj|D:\\BTapKy7\\CNPM\\BTL_TEST\\dal\\giangviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33513704-8703-41BB-B132-DCEB35A5AE0F}|DAL\\DAL.csproj|solutionrelative:dal\\giangviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GiangVienDAL.cs",
+              "DocumentMoniker": "D:\\BTapKy7\\CNPM\\BTL_TEST\\DAL\\GiangVienDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\GiangVienDAL.cs",
+              "ToolTip": "D:\\BTapKy7\\CNPM\\BTL_TEST\\DAL\\GiangVienDAL.cs",
+              "RelativeToolTip": "DAL\\GiangVienDAL.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:00:46.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DanhSachGiangVien.cs",
+              "DocumentMoniker": "D:\\BTapKy7\\CNPM\\BTL_TEST\\BTL_TEST\\DanhSachGiangVien.cs",
+              "RelativeDocumentMoniker": "BTL_TEST\\DanhSachGiangVien.cs",
+              "ToolTip": "D:\\BTapKy7\\CNPM\\BTL_TEST\\BTL_TEST\\DanhSachGiangVien.cs",
+              "RelativeToolTip": "BTL_TEST\\DanhSachGiangVien.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwMsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:59:48.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiangVienDTO.cs",
+              "DocumentMoniker": "D:\\BTapKy7\\CNPM\\BTL_TEST\\DTO\\GiangVienDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\GiangVienDTO.cs",
+              "ToolTip": "D:\\BTapKy7\\CNPM\\BTL_TEST\\DTO\\GiangVienDTO.cs",
+              "RelativeToolTip": "DTO\\GiangVienDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:00:51.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GiangVienBLL.cs",
+              "DocumentMoniker": "D:\\BTapKy7\\CNPM\\BTL_TEST\\BLL\\GiangVienBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\GiangVienBLL.cs",
+              "ToolTip": "D:\\BTapKy7\\CNPM\\BTL_TEST\\BLL\\GiangVienBLL.cs",
+              "RelativeToolTip": "BLL\\GiangVienBLL.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:00:41.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DanhSachGiangVien.cs [Design]",
+              "DocumentMoniker": "D:\\BTapKy7\\CNPM\\BTL_TEST\\BTL_TEST\\DanhSachGiangVien.cs",
+              "RelativeDocumentMoniker": "BTL_TEST\\DanhSachGiangVien.cs",
+              "ToolTip": "D:\\BTapKy7\\CNPM\\BTL_TEST\\BTL_TEST\\DanhSachGiangVien.cs [Design]",
+              "RelativeToolTip": "BTL_TEST\\DanhSachGiangVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:56:02.65Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
